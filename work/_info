@@ -1,0 +1,172 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Verilog/single cycle MIPS
+v_ALU
+Z1 !s110 1580681397
+!i10b 1
+!s100 =a>H7DWK0=_F<UT3<`nh`2
+I6Uoz^QBbTm19?lm:@NTMC1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1580681391
+Z4 8D:/Verilog/single cycle MIPS/ALU.v
+Z5 FD:/Verilog/single cycle MIPS/ALU.v
+L0 1
+Z6 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z7 !s108 1580681397.000000
+Z8 !s107 D:/Verilog/single cycle MIPS/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/Verilog/single cycle MIPS/ALU.v|
+!i113 1
+Z10 o-work work
+n@_@a@l@u
+vcont
+Z11 !s110 1580682627
+!i10b 1
+!s100 FD0O:MF<E=dcE??TT>0YC2
+IVWSQCDc6i2ZMjFo:geY8j2
+R2
+R0
+Z12 w1580682619
+Z13 8D:/Verilog/single cycle MIPS/controller.v
+Z14 FD:/Verilog/single cycle MIPS/controller.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z15 !s108 1580682627.000000
+Z16 !s107 D:/Verilog/single cycle MIPS/controller.v|
+Z17 !s90 -reportprogress|300|-work|work|D:/Verilog/single cycle MIPS/controller.v|
+!i113 1
+R10
+vdata_memory
+Z18 !s110 1580682187
+!i10b 1
+!s100 ?3Mc=lE2W]:>QaCU`j<N`2
+IEg4PYN=Zj@3Z_3aOAzoaG2
+R2
+R0
+Z19 w1580682180
+Z20 8D:/Verilog/single cycle MIPS/memory.v
+Z21 FD:/Verilog/single cycle MIPS/memory.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z22 !s108 1580682187.000000
+Z23 !s107 D:/Verilog/single cycle MIPS/memory.v|
+Z24 !s90 -reportprogress|300|-work|work|D:/Verilog/single cycle MIPS/memory.v|
+!i113 1
+R10
+vreg_file
+Z25 !s110 1580682030
+!i10b 1
+!s100 J^:7AfB96_G9V]4b64OJ?1
+IzYVO``<ak8`efJ[IN:YVj1
+R2
+R0
+Z26 w1580682027
+R20
+R21
+L0 1
+R6
+r1
+!s85 0
+31
+Z27 !s108 1580682030.000000
+R23
+R24
+!i113 1
+R10
+vt_ALU
+R1
+!i10b 1
+!s100 8CPG8C_Un_H1Da5D0X9GK1
+IWo??SBUM;@BHh9Qm5dd`J1
+R2
+R0
+R3
+R4
+R5
+Z28 L0 17
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+nt_@a@l@u
+vt_cont
+R11
+!i10b 1
+!s100 909h6oF8BUN:H0[0H0AhZ2
+Im0V[PRc0?hG8JXjc]NVEH2
+R2
+R0
+R12
+R13
+R14
+R28
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R10
+vt_data_memory
+R18
+!i10b 1
+!s100 O>bB5OGVb9;L9zz5cT<]>0
+IT3T]cNZzZ;ZTgk@JkaQY40
+R2
+R0
+R19
+R20
+R21
+Z29 L0 25
+R6
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 1
+R10
+vt_reg_file
+R25
+!i10b 1
+!s100 QXBE0LFSd?RgZXHF:dji<0
+IIZDPd5bdlmd6HR9WBYm7[1
+R2
+R0
+R26
+R20
+R21
+R29
+R6
+r1
+!s85 0
+31
+R27
+R23
+R24
+!i113 1
+R10
